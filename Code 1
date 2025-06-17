@@ -1,0 +1,5 @@
+N=int(input())
+F=float(input())
+temp=N
+temp2=F
+print(f"Initial salaries:\nAlice's salary = {N}\nBob's salary = {F}\n\nNew salaries after swapping:\nAlice's salary = {temp2}\nBob's salary = {temp}")
